@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP 15 P077 TX\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="G:\Assignment\app\build\intermediates\pre-dexed\debug\retrofit-2.3.0_cf582cac59d8432660b58e2c9e9c0b2836a619a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP 15 P077 TX\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="G:\Assignment\app\build\intermediates\pre-dexed\debug\okhttp-3.8.0_0ebf468ac39e8a7d7edd5d73f13590efd6f019b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP 15 P077 TX\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="G:\Assignment\app\build\intermediates\pre-dexed\debug\gson-2.8.0_1a424aa2a4593e2badfa24d98c038d237408c356.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP 15 P077 TX\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="G:\Assignment\app\build\intermediates\pre-dexed\debug\okio-1.13.0_3e8b04528c9fdc185ffc1efd1dfb3484f1b4e66f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP 15 P077 TX\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="G:\Assignment\app\build\intermediates\pre-dexed\debug\converter-gson-2.3.0_26852226235d39706c2b516494dee7f74a06cd41.jar" />
+    </item>
+
+</items>
